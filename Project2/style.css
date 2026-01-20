@@ -1,0 +1,44 @@
+body {
+      font-family: Arial, sans-serif;
+      background-color: #f9f9f9;
+      color: #333;
+      padding: 20px;
+    }
+
+    header {
+      background-color: #ffcc80;
+      padding: 15px;
+      text-align: center;
+    }
+
+    main {
+      background-color: #ffffff;
+      padding: 20px;
+      max-width: 600px;
+      margin: auto;
+    }
+
+    h1, h2 {
+      color: #d35400;
+    }
+
+    img {
+      width: 100%;
+      border-radius: 8px;
+    }
+
+    ul {
+      background-color: #fff3e0;
+      padding: 15px;
+    }
+
+    ol {
+      background-color: #e8f5e9;
+      padding: 15px;
+    }
+
+    footer {
+      text-align: center;
+      margin-top: 20px;
+      color: #777;
+    }
