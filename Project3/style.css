@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  background-color: #f3f3f3;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+  background-color: #ffffff;
+  padding: 20px;
+}
+
+.header {
+  text-align: center;
+  background-color: #e6e6e6;
+  padding: 25px;
+}
+
+.header img {
+  width: 200px;
+  margin-top: 15px;
+}
+
+.subtitle {
+  font-size: 16px;
+  color: #444;
+}
+
+.timeline {
+  margin-top: 30px;
+  padding: 20px;
+  background-color: #fafafa;
+}
+
+.timeline h2 {
+  text-align: center;
+}
+
+.timeline span {
+  font-weight: bold;
+}
+
+.achievements {
+   margin-top: 30px;
+   padding: 20px;
+}
+
+.achievements h2 {
+  text-align: center;
+}
