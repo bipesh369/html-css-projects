@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+}
+
+.header {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.tagline {
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+.about {
+  background-color: #ffffff;
+  padding: 30px;
+  margin: 20px;
+}
+
+.about h2 {
+  color: #333;
+}
+
+.contact {
+  background-color: #eaeaea;
+  padding: 30px;
+  margin: 20px;
+}
+
+.contact h2 {
+  color: #333;
+}
